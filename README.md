@@ -12,6 +12,7 @@ This course focuses on the impact of Artificial Intelligence on organizations an
 ├── assignment_02/          # Customer Churn Prediction - Classification project
 ├── assignment_03/          # Sales Forecasting - Regression analysis
 ├── assignment_04/          # Unsupervised Learning (K-Means and MeanShift)
+├── assignment_05/          # Generative AI
 └── README.md
 ```
 
